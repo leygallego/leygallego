@@ -4,8 +4,8 @@
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 
-- 👨‍💻 All of my projects are available at [github/leygallego](github/leygallego)
-- You can see my portfolio at [https://portafolio-leyder.web.app/](https://portafolio-leyder.web.app/)
+- 👨‍💻 Some of my projects are available at [github/leygallego](github/leygallego)
+- You can see part of my portfolio at [https://portafolio-leyder.web.app/](https://portafolio-leyder.web.app/)
 
 - 💬 Ask me about **react, node.js, express, postgress, redux.js, odoo**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/leygallego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leygallego" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leygallego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leygallego" height="30" width="40" /></a>
-<a href="https://fb.com/leyder.gallego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leyder.gallego" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
