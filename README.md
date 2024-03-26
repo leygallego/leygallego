@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [github/leygallego](github/leygallego)
 - You can see my portfolio at [https://portafolio-leyder.web.app/](https://portafolio-leyder.web.app/)
 
-- 💬 Ask me about **react, node.js, express, postgress, redux.js**
+- 💬 Ask me about **react, node.js, express, postgress, redux.js, odoo**
 
 - 📫 How to reach me **leyveloper@gmail.com** o **leyder.gallego@gmail.com**
 
